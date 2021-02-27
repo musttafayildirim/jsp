@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Ders02_JSP_GenelTaglar:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Ders02_JSP_GenelTaglar</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Ders02_JSP_GenelTaglar-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Ders02_JSP_GenelTaglar:war exploded" />
+    </root>
+  </artifact>
+</component>

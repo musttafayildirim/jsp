@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Ders03_JavaSE:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Ders03_JavaSE</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Ders03_JavaSE-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Ders03_JavaSE:war exploded" />
+    </root>
+  </artifact>
+</component>
